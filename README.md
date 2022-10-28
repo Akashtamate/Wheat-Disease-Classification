@@ -7,4 +7,5 @@ The moto of this project is to Identify the **appropriate wheat disease** by ima
 1. Keras
 2. TensorFlow
 
-### Dataset :
+### :hourglass_flowing_sand: Dataset:
+Download the dataset for custom training : https://drive.google.com/drive/folders/1LX2kTuY73l9B3vbBtV3eCCi0Xh95U9PR?usp=sharing
